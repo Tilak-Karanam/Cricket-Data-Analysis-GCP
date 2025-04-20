@@ -7,7 +7,7 @@ os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = '/users/file.json'
 
 url = 'https://cricbuzz-cricket.p.rapidapi.com/stats/v1/rankings/batsmen'
 headers = {
-        "X-RapidAPI-Key": "3f1119587dmshf48e9a17891d2ebp1e6315",
+        "X-RapidAPI-Key": "RapidAPI Key",
     'X-RapidAPI-Host': 'cricbuzz-cricket.p.rapidapi.com'
 }
 
